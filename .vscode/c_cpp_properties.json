@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\Program Files\\MinGW\\include"
+            ],
+            "defines": []
+        }
+    ],
+    "version": 4
+}
